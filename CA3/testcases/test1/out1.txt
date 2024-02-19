@@ -1,0 +1,9 @@
+Name: p1
+Doctor: Ur1
+Visit: Mon 1 10:00
+Charge: 1300
+----------
+Name: p2
+Doctor: Ur1
+Visit: Mon 2 10:10
+Charge: 1300
